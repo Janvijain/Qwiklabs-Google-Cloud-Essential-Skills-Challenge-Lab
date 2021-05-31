@@ -21,4 +21,4 @@ Check My Progress
 Click on External IP
 Check My Progress
 
-Congratulations! you have successfully completed this challenge lab
+# Congratulations! you have successfully completed this challenge lab
